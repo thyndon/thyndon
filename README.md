@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @thyndon
+- 👋 Hi, I’m @thyndon.
 - 👀 I’m interested in data science.
-- 🌱 I’m currently learning the cursera course IBM Data Science Professional Certificate
+- 🌱 I’m currently learning the cursera course IBM Data Science Professional Certificate.
 - 💞️ I’m looking to collaborate on analysing data sets especially concerning energy markets.
 - 📫 How to reach me krewer+github@posteo.de
 
